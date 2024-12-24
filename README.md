@@ -1,15 +1,15 @@
-# Hi there, I'm Adhieresthenes - mynick is [Adi](https://www.portfolionusaya.my.id) 👋
-## About me:
+# Hi there, I'm Adhieresthenes - myNick is [Adi](https://www.portfolionusaya.my.id) 👋
+## About Me: 
 - 🔭 I’m currently working as IT Tutor and Practitioner at some Edu Institutions / EduTech
 - 🌱 I’m currently learning Laravel and Java Spring Boot
-- 👯 I’m looking to collaborate as Web Dev with System Analyst and Product Development
+- 👯 I’m looking to collaborate as Web Dev with System Analyst
 - 🤔 I’m looking for suggest for Remote Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: adhieresthenes@gmail.com
 
-## Education:
+## Here is my Developer Career and Education:
 
-#### 1. [Universitas Widyatama]([https://www.ugm.ac.id](https://www.widyatama.ac.id/) | Bachelor of Informatics Engineering | Bandung `2010 - 2016`
+#### 1. [Universitas Widyatama](https://www.widyatama.ac.id/) | Bachelor of Informatics Engineering | Bandung `2010 - 2016`
    - Asistant Laboratorium of Web Design and Programming
    - Asistant Laboratorium of Robotic Forums
    - Digital Marketing at Startup for Promoting Business using Wordpress E-Commerce Platform
@@ -20,15 +20,23 @@
    - Music Recording Club
 
 ## Work Experience:
-#### 1. [PT.Nutech Integrasi](https://www.nutech-integrasi.com/) | Project Electronicts Road Pricing / E-Toll Fare Collection | Jakarta `April '2017 - 2018` ~ Research and Development Division
+#### 1. [CV.Cybereye Bandung](https://cybereyebdg.com) | Project Based | Jakarta `2014-2016`
+   - Build and Marketing web application for Inventory stock opname
+   - Create Internet of things product fo smart house using ESP12 (8266) and Arduino Controller Device
+   - I and Team Work remotely with foreign clients to build deliverable application @Odesk/UpWork 
+#### 2. [PT.Nutech Integrasi](https://www.nutech-integrasi.com) | Electronicts Road Pricing Project / E-Toll Fare Collection| Fulltime Project| Jakarta `April '2017 - 2018` ~ Research and Development Division 
    - Setup Minute of Meeting with Clients for new a project, Develop Minimum Viable Product to be tested in UAT and SIT time scheduled.
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using CronJob and API service for day-to-day routine transactions
    - Collaboration with Telkom Finnet to build integration system between E-Wallet and Monitoring System 
-#### 2. [PT.Mitra Konsultasi Indonesia, vendoring system for PLN Kantor Pusat ](https://web.pln.co.id/) | Contract Project| Jakarta `2018-2020`
-   - Elicitate the system requirement and business process with SCRUM TEAM to reach the best consept and implementation of application products
+#### 3. [PT.Mitra Consultancy Indonesia, vendoring PT. PLN,Tbk - Kantor Pusat ](https://web.pln.co.id) | Contract based | Jakarta `2018-2019`
+   - Elicitate system requirement and business process with SCRUM TEAM to reach match design and consept to implement the right application development
    - Manage to recap fault in distribution 
-   - Research and Bugs fixing applications
+   - Research and Bugs fixing the applications that being delivered
+#### 4. [PT.Hasta Prima Solusi Indonesia](https://web.pln.co.id) | Contract based | Jakarta `2019-2020`
+   - Develop Web and Mobile Apps for vendoring restaurant systems
+   - Maintenance Application and Database Operations
+   - Bug Fixing and Support Application for Users
 ---
 
 ### Languages and Tools:
@@ -45,19 +53,8 @@
 
 ---
 ### Connect with me:
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
-
-
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+<p align="left">
+<a href="https://linkedin.com/in/adi ahmad muhibin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adi ahmad muhibin" height="30" width="40" /></a>
+<a href="https://instagram.com/adhieresthenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhieresthenes" height="30" width="40" /></a>
+<a href="https://www.behance.net/adithenes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adithenes" height="30" width="40" /></a>
+</p>
