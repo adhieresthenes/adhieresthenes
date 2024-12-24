@@ -1,4 +1,4 @@
-# Hi there, I'm Adi - aka [adhieresthenes](https://www.portfolionusaya.my.id) 👋
+# Hi there, I'm Adi - Nickname is [adhieresthenes](https://www.portfolionusaya.my.id) 👋
 ## About me:
 - 🔭 I’m currently working as IT Tutor and Practitioner at some Edu Institutions / EduTech
 - 🌱 I’m currently learning Laravel and Java Spring Boot
