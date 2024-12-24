@@ -45,12 +45,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhieresthenes&show_icons=true&locale=en&layout=compact" alt="adhieresthenes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhieresthenes&show_icons=true&locale=en" alt="adhieresthenes" /></p>
-
-
-
-
-
-<br />
 <br />
 
 ---
