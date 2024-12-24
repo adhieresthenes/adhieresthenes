@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently working as IT Tutor and Practitioner at some Edu Institutions / EduTech
 - 🌱 I’m currently learning Laravel and Java Spring Boot
-- 👯 I’m looking to collaborate as Web Dev with System Analyst
+- 👯 I’m looking to collaborate as Web Dev with System Analyst and Product Development
 - 🤔 I’m looking for suggest for Remote Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: adhieresthenes@gmail.com
