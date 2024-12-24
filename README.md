@@ -33,9 +33,13 @@
    - Working to elicitate the system requirement and business proces also system technology, discussed product with SCRUM TEAM                      (PM,Programers,Designer,etc) to reach match design consept to implement the right application development
    - Manage to recap fault in distribution 
    - Research and Bugs fixing the applications that being delivered
-#### 4. [PT.Hasta Prima Solusi Indonesia]() | Web Service and Android Programmer| Tangerang `2019 - Until Nnow`
+#### 4. [PT.Hasta Prima Solusi Indonesia]() | Web Service and Android Programmer| Tangerang `2019 - 2021
    - Develop Web and Mobile Apps for vendoring restaurant systems
    - Maintenance Application and Database Operations
+   - Bug Fixing and Support Application for Users
+#### 5. [Yayasan World Wide](https://tkislamworldwide.sch.id) | IT STAFF/Operator Dapodik Yayasan dan Sekolah Freelance| Tangerang `2021 - Until Nnow`
+   - Develop Web Application for School Marketings and Registration Online
+   - Maintenance Application and Database Backup
    - Bug Fixing and Support Application for Users
 ---
 
