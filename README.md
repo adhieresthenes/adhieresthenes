@@ -17,7 +17,7 @@
    - Red Cross Organization
    - Computer Club
    - English Club
-   - Music Recording Club
+   - Music and Recording Community
 
 ## Work Experience:
 #### 1. [CV.Cybereye Bandung](https://cybereyebdg.com) | UI/UX Designer and Mobile Programmer | Bandung `2014-2016`
