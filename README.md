@@ -7,7 +7,7 @@
 - 💬 Ask me about UI/UX, Web Design and Programming
 - 📫 How to reach me: adhieresthenes@gmail.com
 ---
-## Here is my short Education Journey :
+## Here is my short education journey :
 #### 1. [Universitas Widyatama](https://www.widyatama.ac.id/) | Bachelor of Informatics Engineering | Bandung, `2010 - 2016`
    - Asistant Laboratorium of Web Design and Programming
    - Asistant Laboratorium of Robotic Forums
