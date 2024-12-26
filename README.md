@@ -1,4 +1,4 @@
-# Hi there, I'm Adhieresthenes - myNick is [Adi](https://www.portfolionusaya.my.id) 👋
+# Hi there, I'm Adi - myNick is [Adhieresthenes](https://www.portfolionusaya.my.id) 👋
 ## About Me: 
 - 🔭 I’m currently working as IT Tutor, Web Developer and Practitioner at some Edu Institutions / EdTech Company / Organization
 - 🌱 I’m currently learning Laravel and Java Spring Boot Framework
