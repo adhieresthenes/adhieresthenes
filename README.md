@@ -29,7 +29,7 @@
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using CronJob and API service for day-to-day routine transactions
    - Collaboration with Telkom Finnet to build integration system between E-Wallet and Monitoring System 
-#### 3. [PT Mitra Konsultansi Indonesia vendoring PT.PLN,Tbk. - PLN Pusat / Gd.Recapital ](https://web.pln.co.id) | Business Analyst - Project Based non Tender| BSD Tangerang Selatan, `2018-2019`
+#### 3. [PT Mitra Konsultansi Indonesia vendoring PT.PLN,Tbk. - PLN Pusat / Gd.Recapital ](https://web.pln.co.id) | Business Analyst - Project Based non Tender|Jakarta Selatan, `2018-2019`
    - Working to elicitate the system requirement and business proces also system technology, discussed product with SCRUM TEAM                      (PM,Programers,Designer,etc) to reach match design consept to implement the right application development
    - Manage to recap fault in distribution 
    - Research and Bugs fixing the applications that being delivered
