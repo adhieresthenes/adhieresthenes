@@ -1,9 +1,9 @@
 # Hi there, I'm Adi - myNick is [Adhieresthenes](https://www.portfolionusaya.my.id) 👋
 ## About Me: 
-- 🔭 I’m currently working as IT Tutor, Web Developer and Practitioner at some Edu Institutions / EdTech Company / Organization
-- 🌱 I’m currently learning Laravel and Java Spring Boot Framework
-- 👯 I’m looking to collaborate with Enthusiast TechGeeks to Improve skills, Knowledges and Networks
-- 🤔 I’m looking for suggest for Remote Project Ideas
+- 🔭 I’m currently working as IT Tutor, Web Developer and supporting Digitalization at some Edu Institutions / EdTech Company / Organization
+- 🌱 I’m currently learning Java Spring Boot and VUE JS Framework
+- 👯 I’m wish to collaborate with Enthusiast TechGeeks to Improve my skills, Knowledges and Networks
+- 🤔 I’m looking for Remote Project or Remote Fulltime Job
 - 💬 Ask me about UI/UX, Web Design and Programming
 - 📫 How to reach me: adhieresthenes@gmail.com
 
