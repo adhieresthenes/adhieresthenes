@@ -9,27 +9,27 @@
 
 ## Here is my Developer Career and Education:
 
-#### 1. [Universitas Widyatama](https://www.widyatama.ac.id/) | Bachelor of Informatics Engineering | Bandung `2010 - 2016`
+#### 1. [Universitas Widyatama](https://www.widyatama.ac.id/) | Bachelor of Informatics Engineering | Bandung, `2010 - 2016`
    - Asistant Laboratorium of Web Design and Programming
    - Asistant Laboratorium of Robotic Forums
    - Digital Marketing at Startup for Promoting Business using Wordpress E-Commerce Platform
- #### 2. [SMA N 1 Kabupaten Tangerang](https://www.sman1kebumen.sch.id) | Tangerang `2008-2010`
+ #### 2. [SMA N 1 Kabupaten Tangerang](https://www.sman1kebumen.sch.id) | Tangerang, `2008-2010`
    - Red Cross Organization
    - Computer Club
    - English Club
    - Music and Recording Community
 
 ## Work Experience:
-#### 1. [CV.Cybereye Bandung](https://cybereyebdg.com) | UI/UX Designer and Mobile Programmer | Bandung `2014-2016`
+#### 1. [CV.Cybereye Bandung](https://cybereyebdg.com) | UI/UX Designer and Mobile Programmer | Bandung, `2014-2016`
    - Build and Marketing web application for Inventory stock opname
    - Create Internet of things product fo smart house using ESP12 (8266) and Arduino Controller Device
    - I and Team Work remotely with foreign clients to build deliverable application @Odesk/UpWork 
-#### 2. [PT.Nutech Integrasi](https://www.nutech-integrasi.com) | Electronicts Road Pricing Project / E-Toll Fare Collection| Fulltime Web Programmer| Jakarta `April '2017 - 2018` @ Research and Development Division 
+#### 2. [PT.Nutech Integrasi](https://www.nutech-integrasi.com) | Electronicts Road Pricing Project / E-Toll Fare Collection| Fulltime Web Programmer| South Jakarta, `April '2017 - 2018` @ Research and Development Division 
    - Setup Minute of Meeting with Clients for new a project, Develop Minimum Viable Product to be tested in UAT and SIT time scheduled.
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using CronJob and API service for day-to-day routine transactions
    - Collaboration with Telkom Finnet to build integration system between E-Wallet and Monitoring System 
-#### 3. [PT Mitra Konsultansi Indonesia vendoring PT.PLN,Tbk. - PLN Pusat / Gd.Recapital ](https://web.pln.co.id) | Business Analyst - Project Based non Tender|Jakarta Selatan, `2018-2019`
+#### 3. [PT Mitra Konsultansi Indonesia vendoring PT.PLN,Tbk. - PLN Pusat / Gd.Recapital ](https://web.pln.co.id) | Business Analyst - Project Based non Tender| South Jakarta, `2018-2019`
    - Working to elicitate the system requirement and business proces also system technology, discussed product with SCRUM TEAM                      (PM,Programers,Designer,etc) to reach match design consept to implement the right application development
    - Manage to recap fault in distribution 
    - Research and Bugs fixing the applications that being delivered
