@@ -7,7 +7,7 @@
 - 💬 Ask me about UI/UX, Web Design and Programming
 - 📫 How to reach me: adhieresthenes@gmail.com
 
-## Here is my Journey of Education:
+## Here is my short Education Journey :
 
 #### 1. [Universitas Widyatama](https://www.widyatama.ac.id/) | Bachelor of Informatics Engineering | Bandung, `2010 - 2016`
    - Asistant Laboratorium of Web Design and Programming
@@ -19,7 +19,7 @@
    - English Club
    - Music and Recording Community
 
-## Here is my Working Experience:
+## Here is my Summary of Working Experience:
 #### 1. [CV.Cybereye Bandung](https://cybereyebdg.com) | UI/UX Designer and Mobile Programmer | Bandung, `2014-2016`
    - Build and Marketing web application for Inventory stock opname
    - Create Internet of things product fo smart house using ESP12 (8266) and Arduino Controller Device
