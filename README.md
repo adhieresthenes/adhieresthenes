@@ -20,7 +20,7 @@
 ---
 
 ## Here is my working experience summary:
-#### 1. [CV.Cybereye Bandung](https://cybereyebdg.com) | UI/UX Designer and Mobile Programmer | Bandung, `2014-2016`
+#### 1. [CV.Cybereye Bandung](https://cybereyebdg.com) | UI/UX Web and Mobile Designer | Bandung, `2014-2016`
    - Build and Marketing web application for Inventory stock opname
    - Create Internet of things product fo smart house using ESP12 (8266) and Arduino Controller Device
    - I and Team Work remotely with foreign clients to build deliverable application @Odesk/UpWork 
