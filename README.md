@@ -37,7 +37,7 @@
    - Develop Web and Mobile Apps for vendoring restaurant systems
    - Maintenance Application and Database Operations
    - Bug Fixing and Support Application for Users
-#### 5. [Yayasan World Wide](https://tkislamworldwide.sch.id) | IT STAFF/Operator Dapodik Yayasan dan Sekolah |Freelance| Tangerang `2021 - Until Now`
+#### 5. [World Wide Learning Institute](https://tkislamworldwide.sch.id) | ICT STAFF/Operator Dapodik Yayasan dan Sekolah |Remote Freelancer| Tangerang `2021 - Until Now`
    - Develop Web Application for School Marketings and Registration Online
    - Maintenance Application and Database Backup
    - Bug Fixing and Support Application for Users
