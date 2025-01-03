@@ -29,15 +29,15 @@
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using CronJob and API service for day-to-day routine transactions
    - Collaboration with Telkom Finnet to build integration system between E-Wallet and Monitoring System 
-#### 3. [PT Mitra Konsultansi Indonesia vendoring PT.PLN,Tbk. - PLN Pusat / Gd.Recapital ](https://web.pln.co.id) | Business Analyst - Project Based non Tender| South Jakarta, `2018-2019`
+#### 3. [PT Mitra Konsultansi Indonesia vendoring PT.PLN,Tbk. - PLN Pusat / Gd.Recapital ](https://web.pln.co.id) | Business Analyst - Project Based non Tender| South Jakarta, `2018-2021`
    - Working to elicitate the system requirement and business proces also system technology, discussed product with SCRUM TEAM                      (PM,Programers,Designer,etc) to reach match design consept to implement the right application development
    - Manage to recap fault in distribution 
    - Research and Bugs fixing the applications that being delivered
-#### 4. [PT.Hasta Prima Solusi Indonesia]() | Web Service and Android Programmer| Fulltime | Tangerang `2019 - 2021
+#### 4. [PT.Hasta Prima Solusi Indonesia]() | Web Service and Android Programmer| Fulltime | Tangerang `2021 - 2022
    - Develop Web and Mobile Apps for vendoring restaurant systems
    - Maintenance Application and Database Operations
    - Bug Fixing and Support Application for Users
-#### 5. [World Wide Learning Institute](https://tkislamworldwide.sch.id) | ICT STAFF/Operator Dapodik Yayasan dan Sekolah |Remote Freelancer| Tangerang `2021 - Until Now`
+#### 5. [World Wide Learning Institute](https://tkislamworldwide.sch.id) | ICT STAFF/Operator Dapodik Yayasan dan Sekolah |Remote Freelancer| Tangerang `2022 - Until Now`
    - Develop Web Application for School Marketings and Registration Online
    - Maintenance Application and Database Backup
    - Bug Fixing and Support Application for Users
