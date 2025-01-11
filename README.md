@@ -5,7 +5,7 @@
 - 👯 I’m wish to collaborate with Enthusiast TechGeeks to Improve my skills, Knowledges and Networks
 - 🤔 I’m looking for Remote Project or Remote Fulltime Job
 - 💬 Ask me about UI/UX, Web Design and Programming
-- 📫 How to reach me: adhieresthenes@gmail.com
+- 📫 How to reach me: adhieresthenes@gmail.com | https://www.portfolionusaya.my.id
 ---
 ## Here is my short education journey :
 #### 1. [Universitas Widyatama](https://www.widyatama.ac.id/) | Bachelor of Informatics Engineering | Bandung, `2010 - 2016`
