@@ -12,7 +12,7 @@
    - Lab Computer Assistance for Web Design and Programming
    - Lab Computer Assistance for Networking System
    - Digital Marketing at Startup for Promoting Business using Wordpress E-Commerce Platform
- #### 2. [SMA N 1 Kabupaten Tangerang](https://www.sman1kebumen.sch.id) | Tangerang, `2008-2010`
+ #### 2. [SMA N 1 Kabupaten Tangerang](https://www.sman1kebumen.sch.id) | Tangerang, `2008 - May 2010`
    - Red Cross Old School Organization
    - Computer Club
    - English Club
