@@ -37,7 +37,7 @@
    - Develop Web and Mobile Apps for vendoring restaurant systems
    - Maintenance Web Service Data and Application, Database backup and optimization
    - Bug Fixing and Support Application for Users
-#### 5. [World Wide Learning Institute](https://tkislamworldwide.sch.id) | ICT STAFF/Operator Dapodik Yayasan dan Sekolah |Hybrid & Freelance Since `2024 June - Present`
+#### 5. [World Wide Learning Institute](https://tkislamworldwide.sch.id) | ICT STAFF/Operator Dapodik Yayasan dan Sekolah | Hybrid & Freelance Since `2024 June - Present`
    - Develop Web Application for School Marketings and Registration Online
    - Maintenance Application and Database Backup
    - Bug Fixing and Support Application for Users
