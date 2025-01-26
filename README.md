@@ -33,7 +33,7 @@
    - Working to elicitate the system requirement and business proces also system technology, discussed product with SCRUM TEAM                      (PM,Programers,Designer,etc) to reach match design consept to implement the right application development
    - Manage to recap fault in distribution 
    - Research and Bugs fixing the applications that being delivered
-#### 4. [PT.Hasta Prima Solusi Indonesia]() | Web Service and Android Programmer| Fulltime | Tangerang `2019 - 2025`
+#### 4. [PT.Hasta Prima Solusi Indonesia]() | Web Service and Android Programmer| Fulltime | Tangerang `2021 - 2025`
    - Develop Web and Mobile Apps for vendoring restaurant systems
    - Maintenance Application and Database Operations
    - Bug Fixing and Support Application for Users
