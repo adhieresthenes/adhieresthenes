@@ -9,8 +9,8 @@
 ---
 ## Here is my short education journey :
 #### 1. [Universitas Widyatama](https://www.widyatama.ac.id/) | Bachelor of Informatics Engineering | Bandung, `August 2010 - November 2016`
-   - Lab Computer Assistance for Web Design and Programming
-   - Lab Computer Assistance for Networking System
+   - Lecturer Assistance for Web Design and Programming
+   - Lab Computer IT Assistance for Networking Infrastructure and IT Support, troubleshooting systems
    - Digital Marketing at Startup for Promoting Business using Wordpress E-Commerce Platform
  #### 2. [SMA N 1 Kabupaten Tangerang](https://www.sman1kebumen.sch.id) | Tangerang, `2008 - May 2010`
    - Red Cross Old School Organization
